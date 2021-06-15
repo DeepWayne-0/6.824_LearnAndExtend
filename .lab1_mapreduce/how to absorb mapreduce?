@@ -1,0 +1,3 @@
+MapReduce, a simple prototype of computing based on big data, is our first touch into the field of distributed system. For learning mapreduce, this paper[1] gave the concept and
+the implementation of it. Here, I give the process of MapReduce and pull some questions that you may omit. And in the end, I will give some my thinkings on MapReduce and illustrate
+it in Hadoop.
